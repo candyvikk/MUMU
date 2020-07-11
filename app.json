@@ -1,0 +1,37 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/home/home",
+    "pages/cp/cp"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#FFDAB9",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "牡蛎科技",
+    "backgroundColor": "#FFA07A"
+  },
+  "tabBar": {
+    "selectedColor": "",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/tabbar/shouye1.png",
+        "selectedIconPath": "static/tabbar/shouye1.png"
+      },
+      {
+        "pagePath": "pages/cp/cp",
+        "text": "产品",
+        "iconPath": "static/tabbar/changp.png",
+        "selectedIconPath": "static/tabbar/changp.png"
+      },
+      {
+        "pagePath": "pages/home/home",
+        "text": "我的",
+        "iconPath": "static/tabbar/wode1.png",
+        "selectedIconPath": "static/tabbar/wode1.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}

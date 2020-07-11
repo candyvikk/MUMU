@@ -1,0 +1,80 @@
+<!--pages/index/index.wxml-->
+<view>示例一</view>
+
+<view class="menu-1">
+  <view class="item">
+    <image src="/static/index/Gj76llxJHd.jpg"></image>
+    <text>量化</text>
+  </view>
+  <view class="item">
+    <image src="/static/index/Gj76llxJHd.jpg"></image>
+    <text>量化</text>
+  </view>
+  <view class="item">
+    <image src="/static/index/Gj76llxJHd.jpg"></image>
+    <text>量化</text>
+  </view>
+  <view class="item">
+    <image src="/static/index/Gj76llxJHd.jpg"></image>
+    <text>量化</text>
+  </view>
+</view>
+
+<view>示例二</view>
+
+<view class="menu-2">
+  <view class="item">
+    <image src="/static/index/Gj76llxJHd.jpg"></image>
+    <text>量化</text>
+  </view>
+  <view class="item">
+    <image src="/static/index/Gj76llxJHd.jpg"></image>
+    <text>量化</text>
+  </view>
+  <view class="item">
+    <image src="/static/index/Gj76llxJHd.jpg"></image>
+    <text>量化</text>
+  </view>
+  <view class="item">
+    <image src="/static/index/Gj76llxJHd.jpg"></image>
+    <text>量化</text>
+  </view>
+</view>
+
+<view>示例三</view>
+
+<view class="auction">
+  <view class="item">
+    <view class="title">第一个 量化产品</view>
+    <view class="tips">
+      <view class="status">2020-07-10</view>
+      <view class="count">浏览9999次</view>
+    </view>
+    <view class="big">
+      <image src="/static/index/Gj76llxJHd.jpg"></image>
+    </view>
+    <view class="small">
+      <image src="/static/index/Gj76llxJHd.jpg"></image>
+      <image src="/static/index/Gj76llxJHd.jpg"></image>
+      <image src="/static/index/Gj76llxJHd.jpg"></image>
+      <image src="/static/index/Gj76llxJHd.jpg"></image>
+    </view>
+  </view>
+
+  <view class="item">
+    <view class="title">第二个 量化产品</view>
+    <view class="tips">
+      <view class="status">2020-07-10</view>
+      <view class="count">浏览9999次</view>
+    </view>
+    <view class="big">
+      <image src="/static/index/Gj76llxJHd.jpg"></image>
+    </view>
+    <view class="small">
+      <image src="/static/index/Gj76llxJHd.jpg"></image>
+      <image src="/static/index/Gj76llxJHd.jpg"></image>
+      <image src="/static/index/Gj76llxJHd.jpg"></image>
+      <image src="/static/index/Gj76llxJHd.jpg"></image>
+    </view>
+  </view>
+</view>
